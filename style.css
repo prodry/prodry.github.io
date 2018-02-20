@@ -1,0 +1,24 @@
+header {
+  background: url("Indexhome.png");
+  background-pos
+ }
+
+ header img {
+ 	margin-left: 0px ;
+ }
+
+#videoal {
+    /* ... put any margin, padding, etc. here you like */
+}
+
+#videoal div.video {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    width: 500px;
+    height: 500px;
+    margin: 0 10px 10px 0;
+}
+
+#videoal div.video video {
+    width: 100%;
